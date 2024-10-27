@@ -1,0 +1,7 @@
+# Ignore the following folders:
+Include/
+Lib/
+Scripts/
+
+# Ignore pyvenv.cfg
+pyvenv.cfg
