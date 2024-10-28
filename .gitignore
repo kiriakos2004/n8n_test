@@ -5,3 +5,4 @@ Scripts/
 
 # Ignore the following files:
 pyvenv.cfg
+qdrant.py
